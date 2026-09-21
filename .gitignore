@@ -1,0 +1,27 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+.pytest_cache/
+.tox/
+.env
+.venv/
+venv/
+ENV/
+chroma/
+data/
+*.db
+*.log
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+*.screenshot.png
+ops-log/
