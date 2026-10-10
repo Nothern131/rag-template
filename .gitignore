@@ -1,3 +1,11 @@
+# 研究笔记 / 生成产物（不发布）
+output/
+zhihu_article.md
+
+# 封面生成脚本（仅本地用）
+gen_cover.py
+cover.png
+
 # .gitignore
 __pycache__/
 *.pyc
