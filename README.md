@@ -2,6 +2,8 @@
 
 面向 200-1500 人规模游戏公司的**客服/知识库 RAG 试点**脚手架，3 天可交付可用版本。
 
+> 需要 3 天交付 / 调参 / 验收服务？见 [rag-delivery-repo](https://github.com/Nothern131/rag-delivery-repo)（销售页 + 定价 + 8 层验收清单）
+
 ## 3 步上手
 
 ### 1. 装环境
